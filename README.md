@@ -1,2 +1,3 @@
 # hello-world
 test repository
+This is a test to show how committing a changes file works...
